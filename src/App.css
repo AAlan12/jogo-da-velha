@@ -1,14 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
-:root {
-  --cinza : #707070;
-  --font-principal : 'Montserrat', sans-serif;
-}
+
 
 .action {
-  color: var(--cinza);
+  color: var(--color-fourth);
   text-decoration: none;
   text-transform: uppercase;
-  font-family: var(--font-principal);
   font-weight: bold;
   font-size: 14px;
 }
