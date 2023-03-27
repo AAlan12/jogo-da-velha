@@ -7,8 +7,10 @@ function App() {
   return (
     <>
       <Header/>
-      <Card/>
-      <Player player="o"/>
+      <Card>
+        <Player player="o"/>
+      </Card>
+      
     </>
   );
 }
