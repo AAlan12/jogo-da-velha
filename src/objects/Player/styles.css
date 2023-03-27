@@ -4,6 +4,7 @@
 
 }
 
-img {
+.player > img {
     width: 50px;
+    filter: invert(43%) sepia(6%) saturate(55%) hue-rotate(315deg) brightness(101%) contrast(95%);
 }
