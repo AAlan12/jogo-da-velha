@@ -1,0 +1,17 @@
+.app {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.app > .header {
+    width: 90vw;
+    margin: 0 auto 85px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.app > .card {
+    width: 80vw;
+    height: 80vw;
+}
