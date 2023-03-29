@@ -1,7 +1,7 @@
 import React from "react";
 import './styles.css';
-import playerX from '../../img/player-x.png';
-import playerO from '../../img/player-circle.png';
+import playerX from '../../img/x.svg';
+import playerO from '../../img/circle.svg';
 
 
 const Player = (props) => {
