@@ -8,7 +8,7 @@ function App() {
     <main className='app'>
       <Header/>
       <Hashtag/>  
-      <Input id="show" value="show" content="Mostrar eventos"/>
+      <Input id="show" value="show" content="Mostrar eventos" type="checkbox"/>
     </main>
   );
 }
