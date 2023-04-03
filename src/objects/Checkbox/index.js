@@ -2,6 +2,7 @@ import { type } from "@testing-library/user-event/dist/type"
 import React from "react"
 import Label from "../Label"
 import Input from "../Input"
+import './styles.css';
 
 const Checkbox = ({ id = "", value = "", content = "" }) => {
     return(
